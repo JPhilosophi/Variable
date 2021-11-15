@@ -16,5 +16,6 @@ public class Variable {
         System.out.println(availableMemory);
         System.out.println(os);
         System.out.println(isMyPC);
+        System.out.println("test for commit");
     }
 }
